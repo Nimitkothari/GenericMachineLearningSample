@@ -1,1 +1,1 @@
-# GenericMachineLearningSample
+# MachineModel
